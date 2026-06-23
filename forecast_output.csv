@@ -1,0 +1,529 @@
+corridor,hour,forecast_score,risk_level
+Mysore Road,0,80.64,RED
+Mysore Road,1,78.81,RED
+Mysore Road,2,79.11,RED
+Mysore Road,3,78.37,RED
+Mysore Road,4,87.56,RED
+Mysore Road,5,92.64,RED
+Mysore Road,6,92.59,RED
+Mysore Road,7,83.7,RED
+Mysore Road,8,76.15,RED
+Mysore Road,9,67.9,AMBER
+Mysore Road,10,63.36,AMBER
+Mysore Road,11,63.36,AMBER
+Mysore Road,12,63.11,AMBER
+Mysore Road,13,61.63,AMBER
+Mysore Road,14,60.64,AMBER
+Mysore Road,15,60.44,AMBER
+Mysore Road,16,60.44,AMBER
+Mysore Road,17,61.68,AMBER
+Mysore Road,18,71.26,RED
+Mysore Road,19,88.54,RED
+Mysore Road,20,93.63,RED
+Mysore Road,21,100.0,RED
+Mysore Road,22,87.85,RED
+Mysore Road,23,84.44,RED
+Bellary Road 1,0,70.67,RED
+Bellary Road 1,1,68.84,AMBER
+Bellary Road 1,2,69.14,AMBER
+Bellary Road 1,3,68.4,AMBER
+Bellary Road 1,4,77.58,RED
+Bellary Road 1,5,82.67,RED
+Bellary Road 1,6,82.62,RED
+Bellary Road 1,7,73.73,RED
+Bellary Road 1,8,66.18,AMBER
+Bellary Road 1,9,57.93,AMBER
+Bellary Road 1,10,53.39,AMBER
+Bellary Road 1,11,53.39,AMBER
+Bellary Road 1,12,53.14,AMBER
+Bellary Road 1,13,51.66,AMBER
+Bellary Road 1,14,50.67,AMBER
+Bellary Road 1,15,50.47,AMBER
+Bellary Road 1,16,50.47,AMBER
+Bellary Road 1,17,51.71,AMBER
+Bellary Road 1,18,61.29,AMBER
+Bellary Road 1,19,78.57,RED
+Bellary Road 1,20,83.66,RED
+Bellary Road 1,21,90.03,RED
+Bellary Road 1,22,77.88,RED
+Bellary Road 1,23,74.47,RED
+Tumkur Road,0,58.39,AMBER
+Tumkur Road,1,56.56,AMBER
+Tumkur Road,2,56.86,AMBER
+Tumkur Road,3,56.12,AMBER
+Tumkur Road,4,65.3,AMBER
+Tumkur Road,5,70.39,RED
+Tumkur Road,6,70.34,RED
+Tumkur Road,7,61.45,AMBER
+Tumkur Road,8,53.9,AMBER
+Tumkur Road,9,45.65,AMBER
+Tumkur Road,10,41.11,AMBER
+Tumkur Road,11,41.11,AMBER
+Tumkur Road,12,40.86,AMBER
+Tumkur Road,13,39.38,GREEN
+Tumkur Road,14,38.39,GREEN
+Tumkur Road,15,38.19,GREEN
+Tumkur Road,16,38.19,GREEN
+Tumkur Road,17,39.43,GREEN
+Tumkur Road,18,49.01,AMBER
+Tumkur Road,19,66.29,AMBER
+Tumkur Road,20,71.38,RED
+Tumkur Road,21,77.75,RED
+Tumkur Road,22,65.6,AMBER
+Tumkur Road,23,62.19,AMBER
+Bellary Road 2,0,51.88,AMBER
+Bellary Road 2,1,50.05,AMBER
+Bellary Road 2,2,50.35,AMBER
+Bellary Road 2,3,49.61,AMBER
+Bellary Road 2,4,58.79,AMBER
+Bellary Road 2,5,63.88,AMBER
+Bellary Road 2,6,63.83,AMBER
+Bellary Road 2,7,54.94,AMBER
+Bellary Road 2,8,47.38,AMBER
+Bellary Road 2,9,39.14,GREEN
+Bellary Road 2,10,34.59,GREEN
+Bellary Road 2,11,34.59,GREEN
+Bellary Road 2,12,34.35,GREEN
+Bellary Road 2,13,32.87,GREEN
+Bellary Road 2,14,31.88,GREEN
+Bellary Road 2,15,31.68,GREEN
+Bellary Road 2,16,31.68,GREEN
+Bellary Road 2,17,32.92,GREEN
+Bellary Road 2,18,42.5,AMBER
+Bellary Road 2,19,59.78,AMBER
+Bellary Road 2,20,64.87,AMBER
+Bellary Road 2,21,71.24,RED
+Bellary Road 2,22,59.09,AMBER
+Bellary Road 2,23,55.68,AMBER
+Hosur Road,0,45.12,AMBER
+Hosur Road,1,43.29,AMBER
+Hosur Road,2,43.59,AMBER
+Hosur Road,3,42.85,AMBER
+Hosur Road,4,52.03,AMBER
+Hosur Road,5,57.12,AMBER
+Hosur Road,6,57.07,AMBER
+Hosur Road,7,48.18,AMBER
+Hosur Road,8,40.63,AMBER
+Hosur Road,9,32.38,GREEN
+Hosur Road,10,27.84,GREEN
+Hosur Road,11,27.84,GREEN
+Hosur Road,12,27.59,GREEN
+Hosur Road,13,26.11,GREEN
+Hosur Road,14,25.12,GREEN
+Hosur Road,15,24.92,GREEN
+Hosur Road,16,24.92,GREEN
+Hosur Road,17,26.16,GREEN
+Hosur Road,18,35.74,GREEN
+Hosur Road,19,53.02,AMBER
+Hosur Road,20,58.11,AMBER
+Hosur Road,21,64.48,AMBER
+Hosur Road,22,52.33,AMBER
+Hosur Road,23,48.92,AMBER
+ORR North 1,0,43.22,AMBER
+ORR North 1,1,41.4,AMBER
+ORR North 1,2,41.69,AMBER
+ORR North 1,3,40.95,AMBER
+ORR North 1,4,50.14,AMBER
+ORR North 1,5,55.22,AMBER
+ORR North 1,6,55.18,AMBER
+ORR North 1,7,46.29,AMBER
+ORR North 1,8,38.73,GREEN
+ORR North 1,9,30.48,GREEN
+ORR North 1,10,25.94,GREEN
+ORR North 1,11,25.94,GREEN
+ORR North 1,12,25.69,GREEN
+ORR North 1,13,24.21,GREEN
+ORR North 1,14,23.22,GREEN
+ORR North 1,15,23.03,GREEN
+ORR North 1,16,23.03,GREEN
+ORR North 1,17,24.26,GREEN
+ORR North 1,18,33.84,GREEN
+ORR North 1,19,51.13,AMBER
+ORR North 1,20,56.21,AMBER
+ORR North 1,21,62.58,AMBER
+ORR North 1,22,50.43,AMBER
+ORR North 1,23,47.03,AMBER
+Old Madras Road,0,41.82,AMBER
+Old Madras Road,1,40.0,GREEN
+Old Madras Road,2,40.29,AMBER
+Old Madras Road,3,39.55,GREEN
+Old Madras Road,4,48.74,AMBER
+Old Madras Road,5,53.82,AMBER
+Old Madras Road,6,53.77,AMBER
+Old Madras Road,7,44.89,AMBER
+Old Madras Road,8,37.33,GREEN
+Old Madras Road,9,29.08,GREEN
+Old Madras Road,10,24.54,GREEN
+Old Madras Road,11,24.54,GREEN
+Old Madras Road,12,24.29,GREEN
+Old Madras Road,13,22.81,GREEN
+Old Madras Road,14,21.82,GREEN
+Old Madras Road,15,21.63,GREEN
+Old Madras Road,16,21.63,GREEN
+Old Madras Road,17,22.86,GREEN
+Old Madras Road,18,32.44,GREEN
+Old Madras Road,19,49.72,AMBER
+Old Madras Road,20,54.81,AMBER
+Old Madras Road,21,61.18,AMBER
+Old Madras Road,22,49.03,AMBER
+Old Madras Road,23,45.63,AMBER
+Magadi Road,0,40.67,AMBER
+Magadi Road,1,38.84,GREEN
+Magadi Road,2,39.14,GREEN
+Magadi Road,3,38.4,GREEN
+Magadi Road,4,47.58,AMBER
+Magadi Road,5,52.67,AMBER
+Magadi Road,6,52.62,AMBER
+Magadi Road,7,43.73,AMBER
+Magadi Road,8,36.18,GREEN
+Magadi Road,9,27.93,GREEN
+Magadi Road,10,23.39,GREEN
+Magadi Road,11,23.39,GREEN
+Magadi Road,12,23.14,GREEN
+Magadi Road,13,21.66,GREEN
+Magadi Road,14,20.67,GREEN
+Magadi Road,15,20.47,GREEN
+Magadi Road,16,20.47,GREEN
+Magadi Road,17,21.71,GREEN
+Magadi Road,18,31.29,GREEN
+Magadi Road,19,48.57,AMBER
+Magadi Road,20,53.66,AMBER
+Magadi Road,21,60.03,AMBER
+Magadi Road,22,47.88,AMBER
+Magadi Road,23,44.47,AMBER
+ORR East 1,0,40.59,AMBER
+ORR East 1,1,38.76,GREEN
+ORR East 1,2,39.06,GREEN
+ORR East 1,3,38.32,GREEN
+ORR East 1,4,47.5,AMBER
+ORR East 1,5,52.59,AMBER
+ORR East 1,6,52.54,AMBER
+ORR East 1,7,43.65,AMBER
+ORR East 1,8,36.09,GREEN
+ORR East 1,9,27.85,GREEN
+ORR East 1,10,23.3,GREEN
+ORR East 1,11,23.3,GREEN
+ORR East 1,12,23.06,GREEN
+ORR East 1,13,21.57,GREEN
+ORR East 1,14,20.59,GREEN
+ORR East 1,15,20.39,GREEN
+ORR East 1,16,20.39,GREEN
+ORR East 1,17,21.62,GREEN
+ORR East 1,18,31.2,GREEN
+ORR East 1,19,48.49,AMBER
+ORR East 1,20,53.57,AMBER
+ORR East 1,21,59.95,AMBER
+ORR East 1,22,47.8,AMBER
+ORR East 1,23,44.39,AMBER
+ORR North 2,0,40.01,AMBER
+ORR North 2,1,38.18,GREEN
+ORR North 2,2,38.48,GREEN
+ORR North 2,3,37.74,GREEN
+ORR North 2,4,46.92,AMBER
+ORR North 2,5,52.01,AMBER
+ORR North 2,6,51.96,AMBER
+ORR North 2,7,43.07,AMBER
+ORR North 2,8,35.52,GREEN
+ORR North 2,9,27.27,GREEN
+ORR North 2,10,22.73,GREEN
+ORR North 2,11,22.73,GREEN
+ORR North 2,12,22.48,GREEN
+ORR North 2,13,21.0,GREEN
+ORR North 2,14,20.01,GREEN
+ORR North 2,15,19.81,GREEN
+ORR North 2,16,19.81,GREEN
+ORR North 2,17,21.05,GREEN
+ORR North 2,18,30.63,GREEN
+ORR North 2,19,47.91,AMBER
+ORR North 2,20,53.0,AMBER
+ORR North 2,21,59.37,AMBER
+ORR North 2,22,47.22,AMBER
+ORR North 2,23,43.81,AMBER
+Bannerghata Road,0,37.78,GREEN
+Bannerghata Road,1,35.96,GREEN
+Bannerghata Road,2,36.25,GREEN
+Bannerghata Road,3,35.51,GREEN
+Bannerghata Road,4,44.7,AMBER
+Bannerghata Road,5,49.78,AMBER
+Bannerghata Road,6,49.74,AMBER
+Bannerghata Road,7,40.85,AMBER
+Bannerghata Road,8,33.29,GREEN
+Bannerghata Road,9,25.04,GREEN
+Bannerghata Road,10,20.5,GREEN
+Bannerghata Road,11,20.5,GREEN
+Bannerghata Road,12,20.25,GREEN
+Bannerghata Road,13,18.77,GREEN
+Bannerghata Road,14,17.78,GREEN
+Bannerghata Road,15,17.59,GREEN
+Bannerghata Road,16,17.59,GREEN
+Bannerghata Road,17,18.82,GREEN
+Bannerghata Road,18,28.4,GREEN
+Bannerghata Road,19,45.69,AMBER
+Bannerghata Road,20,50.77,AMBER
+Bannerghata Road,21,57.14,AMBER
+Bannerghata Road,22,44.99,AMBER
+Bannerghata Road,23,41.59,AMBER
+ORR East 2,0,35.72,GREEN
+ORR East 2,1,33.9,GREEN
+ORR East 2,2,34.19,GREEN
+ORR East 2,3,33.45,GREEN
+ORR East 2,4,42.64,AMBER
+ORR East 2,5,47.72,AMBER
+ORR East 2,6,47.68,AMBER
+ORR East 2,7,38.79,GREEN
+ORR East 2,8,31.23,GREEN
+ORR East 2,9,22.98,GREEN
+ORR East 2,10,18.44,GREEN
+ORR East 2,11,18.44,GREEN
+ORR East 2,12,18.19,GREEN
+ORR East 2,13,16.71,GREEN
+ORR East 2,14,15.72,GREEN
+ORR East 2,15,15.53,GREEN
+ORR East 2,16,15.53,GREEN
+ORR East 2,17,16.76,GREEN
+ORR East 2,18,26.34,GREEN
+ORR East 2,19,43.63,AMBER
+ORR East 2,20,48.71,AMBER
+ORR East 2,21,55.08,AMBER
+ORR East 2,22,42.93,AMBER
+ORR East 2,23,39.53,GREEN
+West of Chord Road,0,34.82,GREEN
+West of Chord Road,1,32.99,GREEN
+West of Chord Road,2,33.29,GREEN
+West of Chord Road,3,32.55,GREEN
+West of Chord Road,4,41.73,AMBER
+West of Chord Road,5,46.82,AMBER
+West of Chord Road,6,46.77,AMBER
+West of Chord Road,7,37.88,GREEN
+West of Chord Road,8,30.32,GREEN
+West of Chord Road,9,22.08,GREEN
+West of Chord Road,10,17.53,GREEN
+West of Chord Road,11,17.53,GREEN
+West of Chord Road,12,17.29,GREEN
+West of Chord Road,13,15.81,GREEN
+West of Chord Road,14,14.82,GREEN
+West of Chord Road,15,14.62,GREEN
+West of Chord Road,16,14.62,GREEN
+West of Chord Road,17,15.85,GREEN
+West of Chord Road,18,25.44,GREEN
+West of Chord Road,19,42.72,AMBER
+West of Chord Road,20,47.81,AMBER
+West of Chord Road,21,54.18,AMBER
+West of Chord Road,22,42.03,AMBER
+West of Chord Road,23,38.62,GREEN
+ORR West 1,0,34.32,GREEN
+ORR West 1,1,32.5,GREEN
+ORR West 1,2,32.79,GREEN
+ORR West 1,3,32.05,GREEN
+ORR West 1,4,41.24,AMBER
+ORR West 1,5,46.32,AMBER
+ORR West 1,6,46.27,AMBER
+ORR West 1,7,37.39,GREEN
+ORR West 1,8,29.83,GREEN
+ORR West 1,9,21.58,GREEN
+ORR West 1,10,17.04,GREEN
+ORR West 1,11,17.04,GREEN
+ORR West 1,12,16.79,GREEN
+ORR West 1,13,15.31,GREEN
+ORR West 1,14,14.32,GREEN
+ORR West 1,15,14.13,GREEN
+ORR West 1,16,14.13,GREEN
+ORR West 1,17,15.36,GREEN
+ORR West 1,18,24.94,GREEN
+ORR West 1,19,42.22,AMBER
+ORR West 1,20,47.31,AMBER
+ORR West 1,21,53.68,AMBER
+ORR West 1,22,41.53,AMBER
+ORR West 1,23,38.13,GREEN
+CBD 2,0,28.72,GREEN
+CBD 2,1,26.89,GREEN
+CBD 2,2,27.19,GREEN
+CBD 2,3,26.45,GREEN
+CBD 2,4,35.63,GREEN
+CBD 2,5,40.72,AMBER
+CBD 2,6,40.67,AMBER
+CBD 2,7,31.78,GREEN
+CBD 2,8,24.23,GREEN
+CBD 2,9,15.98,GREEN
+CBD 2,10,11.43,GREEN
+CBD 2,11,11.43,GREEN
+CBD 2,12,11.19,GREEN
+CBD 2,13,9.71,GREEN
+CBD 2,14,8.72,GREEN
+CBD 2,15,8.52,GREEN
+CBD 2,16,8.52,GREEN
+CBD 2,17,9.76,GREEN
+CBD 2,18,19.34,GREEN
+CBD 2,19,36.62,GREEN
+CBD 2,20,41.71,AMBER
+CBD 2,21,48.08,AMBER
+CBD 2,22,35.93,GREEN
+CBD 2,23,32.52,GREEN
+IRR(Thanisandra road),0,28.47,GREEN
+IRR(Thanisandra road),1,26.64,GREEN
+IRR(Thanisandra road),2,26.94,GREEN
+IRR(Thanisandra road),3,26.2,GREEN
+IRR(Thanisandra road),4,35.39,GREEN
+IRR(Thanisandra road),5,40.47,AMBER
+IRR(Thanisandra road),6,40.42,AMBER
+IRR(Thanisandra road),7,31.53,GREEN
+IRR(Thanisandra road),8,23.98,GREEN
+IRR(Thanisandra road),9,15.73,GREEN
+IRR(Thanisandra road),10,11.19,GREEN
+IRR(Thanisandra road),11,11.19,GREEN
+IRR(Thanisandra road),12,10.94,GREEN
+IRR(Thanisandra road),13,9.46,GREEN
+IRR(Thanisandra road),14,8.47,GREEN
+IRR(Thanisandra road),15,8.27,GREEN
+IRR(Thanisandra road),16,8.27,GREEN
+IRR(Thanisandra road),17,9.51,GREEN
+IRR(Thanisandra road),18,19.09,GREEN
+IRR(Thanisandra road),19,36.37,GREEN
+IRR(Thanisandra road),20,41.46,AMBER
+IRR(Thanisandra road),21,47.83,AMBER
+IRR(Thanisandra road),22,35.68,GREEN
+IRR(Thanisandra road),23,32.27,GREEN
+Hennur Main Road,0,28.39,GREEN
+Hennur Main Road,1,26.56,GREEN
+Hennur Main Road,2,26.86,GREEN
+Hennur Main Road,3,26.12,GREEN
+Hennur Main Road,4,35.3,GREEN
+Hennur Main Road,5,40.39,AMBER
+Hennur Main Road,6,40.34,AMBER
+Hennur Main Road,7,31.45,GREEN
+Hennur Main Road,8,23.9,GREEN
+Hennur Main Road,9,15.65,GREEN
+Hennur Main Road,10,11.11,GREEN
+Hennur Main Road,11,11.11,GREEN
+Hennur Main Road,12,10.86,GREEN
+Hennur Main Road,13,9.38,GREEN
+Hennur Main Road,14,8.39,GREEN
+Hennur Main Road,15,8.19,GREEN
+Hennur Main Road,16,8.19,GREEN
+Hennur Main Road,17,9.43,GREEN
+Hennur Main Road,18,19.01,GREEN
+Hennur Main Road,19,36.29,GREEN
+Hennur Main Road,20,41.38,AMBER
+Hennur Main Road,21,47.75,AMBER
+Hennur Main Road,22,35.6,GREEN
+Hennur Main Road,23,32.19,GREEN
+Varthur Road,0,26.82,GREEN
+Varthur Road,1,25.0,GREEN
+Varthur Road,2,25.29,GREEN
+Varthur Road,3,24.55,GREEN
+Varthur Road,4,33.74,GREEN
+Varthur Road,5,38.82,GREEN
+Varthur Road,6,38.77,GREEN
+Varthur Road,7,29.89,GREEN
+Varthur Road,8,22.33,GREEN
+Varthur Road,9,14.08,GREEN
+Varthur Road,10,9.54,GREEN
+Varthur Road,11,9.54,GREEN
+Varthur Road,12,9.29,GREEN
+Varthur Road,13,7.81,GREEN
+Varthur Road,14,6.82,GREEN
+Varthur Road,15,6.63,GREEN
+Varthur Road,16,6.63,GREEN
+Varthur Road,17,7.86,GREEN
+Varthur Road,18,17.44,GREEN
+Varthur Road,19,34.72,GREEN
+Varthur Road,20,39.81,GREEN
+Varthur Road,21,46.18,AMBER
+Varthur Road,22,34.03,GREEN
+Varthur Road,23,30.63,GREEN
+Old Airport Road,0,26.74,GREEN
+Old Airport Road,1,24.91,GREEN
+Old Airport Road,2,25.21,GREEN
+Old Airport Road,3,24.47,GREEN
+Old Airport Road,4,33.65,GREEN
+Old Airport Road,5,38.74,GREEN
+Old Airport Road,6,38.69,GREEN
+Old Airport Road,7,29.8,GREEN
+Old Airport Road,8,22.25,GREEN
+Old Airport Road,9,14.0,GREEN
+Old Airport Road,10,9.46,GREEN
+Old Airport Road,11,9.46,GREEN
+Old Airport Road,12,9.21,GREEN
+Old Airport Road,13,7.73,GREEN
+Old Airport Road,14,6.74,GREEN
+Old Airport Road,15,6.54,GREEN
+Old Airport Road,16,6.54,GREEN
+Old Airport Road,17,7.78,GREEN
+Old Airport Road,18,17.36,GREEN
+Old Airport Road,19,34.64,GREEN
+Old Airport Road,20,39.73,GREEN
+Old Airport Road,21,46.1,AMBER
+Old Airport Road,22,33.95,GREEN
+Old Airport Road,23,30.54,GREEN
+Airport New South Road,0,25.83,GREEN
+Airport New South Road,1,24.01,GREEN
+Airport New South Road,2,24.3,GREEN
+Airport New South Road,3,23.56,GREEN
+Airport New South Road,4,32.75,GREEN
+Airport New South Road,5,37.83,GREEN
+Airport New South Road,6,37.78,GREEN
+Airport New South Road,7,28.9,GREEN
+Airport New South Road,8,21.34,GREEN
+Airport New South Road,9,13.09,GREEN
+Airport New South Road,10,8.55,GREEN
+Airport New South Road,11,8.55,GREEN
+Airport New South Road,12,8.3,GREEN
+Airport New South Road,13,6.82,GREEN
+Airport New South Road,14,5.83,GREEN
+Airport New South Road,15,5.64,GREEN
+Airport New South Road,16,5.64,GREEN
+Airport New South Road,17,6.87,GREEN
+Airport New South Road,18,16.45,GREEN
+Airport New South Road,19,33.74,GREEN
+Airport New South Road,20,38.82,GREEN
+Airport New South Road,21,45.19,AMBER
+Airport New South Road,22,33.04,GREEN
+Airport New South Road,23,29.64,GREEN
+CBD 1,0,22.7,GREEN
+CBD 1,1,20.88,GREEN
+CBD 1,2,21.17,GREEN
+CBD 1,3,20.43,GREEN
+CBD 1,4,29.62,GREEN
+CBD 1,5,34.7,GREEN
+CBD 1,6,34.65,GREEN
+CBD 1,7,25.76,GREEN
+CBD 1,8,18.21,GREEN
+CBD 1,9,9.96,GREEN
+CBD 1,10,5.42,GREEN
+CBD 1,11,5.42,GREEN
+CBD 1,12,5.17,GREEN
+CBD 1,13,3.69,GREEN
+CBD 1,14,2.7,GREEN
+CBD 1,15,2.5,GREEN
+CBD 1,16,2.5,GREEN
+CBD 1,17,3.74,GREEN
+CBD 1,18,13.32,GREEN
+CBD 1,19,30.6,GREEN
+CBD 1,20,35.69,GREEN
+CBD 1,21,42.06,AMBER
+CBD 1,22,29.91,GREEN
+CBD 1,23,26.5,GREEN
+Unknown,0,22.29,GREEN
+Unknown,1,20.46,GREEN
+Unknown,2,20.76,GREEN
+Unknown,3,20.02,GREEN
+Unknown,4,29.2,GREEN
+Unknown,5,34.29,GREEN
+Unknown,6,34.24,GREEN
+Unknown,7,25.35,GREEN
+Unknown,8,17.8,GREEN
+Unknown,9,9.55,GREEN
+Unknown,10,5.01,GREEN
+Unknown,11,5.01,GREEN
+Unknown,12,4.76,GREEN
+Unknown,13,3.28,GREEN
+Unknown,14,2.29,GREEN
+Unknown,15,2.09,GREEN
+Unknown,16,2.09,GREEN
+Unknown,17,3.33,GREEN
+Unknown,18,12.91,GREEN
+Unknown,19,30.19,GREEN
+Unknown,20,35.28,GREEN
+Unknown,21,41.65,AMBER
+Unknown,22,29.5,GREEN
+Unknown,23,26.09,GREEN
